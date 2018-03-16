@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactlibrarygc;
 
 import android.support.annotation.Nullable;
 import android.support.v7.media.MediaRouter;
